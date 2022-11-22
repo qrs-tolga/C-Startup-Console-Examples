@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Örnekler\bin\Debug\Örnekler.exe.config
+C:\Users\Administrator\Desktop\Örnekler\bin\Debug\Örnekler.exe
+C:\Users\Administrator\Desktop\Örnekler\bin\Debug\Örnekler.pdb
+C:\Users\Administrator\Desktop\Örnekler\obj\Debug\Örnekler.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Örnekler\obj\Debug\Örnekler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Örnekler\obj\Debug\Örnekler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Örnekler\obj\Debug\Örnekler.exe
+C:\Users\Administrator\Desktop\Örnekler\obj\Debug\Örnekler.pdb
